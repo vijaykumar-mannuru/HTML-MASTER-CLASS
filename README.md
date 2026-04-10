@@ -127,8 +127,8 @@ If you like this repo:
 
 ## 📞 Connect With Me
 
-* GitHub: your-profile-link
-* LinkedIn: your-link
+* GitHub:https://github.com/vijaykumar-mannuru
+* LinkedIn: Loading
 
 ---
 
